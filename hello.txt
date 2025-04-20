@@ -1,5 +1,5 @@
 hello,world!
-first change 1
+
 hello git! fighting!!!  i am a master
 hello git! fighting!!!
 hello git! fighting!!!
